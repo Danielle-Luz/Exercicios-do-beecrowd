@@ -3,6 +3,7 @@
 <p align="center">
 • <a href="#descricao">Descrição</a>
 • <a href="#linguagens">Linguagens utilizadas</a>
+• <a href="#conteudo">Conteúdo das pastas</a>
 • <a href="#dev">Desenvolvedora</a>
 • <a href="#creditos">Créditos</a>
 </p>
@@ -24,6 +25,43 @@ O intuito desse repositório é fornecer um norte para aqueles que sentirem difi
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="logo do C"/>
 
 </p>
+
+<h2 id="conteudo">📁 Conteúdo das pastas</h2>
+<table align=center>
+  <thead>
+    <th>Nome</th>
+    <th>Descrição</th>
+    <th>Questões</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Danielle-Luz/Exercicios-do-beecrowd/tree/main/Estruturas%20de%20repeti%C3%A7%C3%A3o">Estruturas de repetição</a></td>
+      <td>Contém questões resolvidas com estruturas de repetição em C e solucionadas sem limitação de recursos em java.</td>
+      <td>1059-1144 (inexato)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Danielle-Luz/Exercicios-do-beecrowd/tree/main/Estruturas%20de%20sele%C3%A7%C3%A3o">Estruturas de seleção</a></td>
+      <td>Contém questões resolvidas apenas com estruturas de seleção em C e solucionadas sem limitação de recursos em java.</td>
+      <td>1035-1052</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Danielle-Luz/Exercicios-do-beecrowd/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o">Introdução à lógica de programação</a></td>
+      <td>Contém questões de nível fácil resolvidas apenas com estruturas de seleção em C e solucionadas sem limitação de recursos em java.</td>
+      <td>1001-1021</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Danielle-Luz/Exercicios-do-beecrowd/tree/main/Matem%C3%A1tica">Matemática</a></td>
+      <td>Contém questões de matemática resolvidas em C.</td>
+      <td>1028</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Danielle-Luz/Exercicios-do-beecrowd/tree/main/Vetores%20e%20matrizes">Vetores e matrizes</a></td>
+      <td>Contém questões sobre vetores e matrizes solucionadas sem limitação de recursos em C e java.</td>
+      <td>1172-1190</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h2 id="dev">:woman: Desenvolvedora</h2>
 
