@@ -1,4 +1,4 @@
-![Banner com o logo do beecrowd que se assemelha a uma abelha](Readme\logo-banner.png)
+![Banner com o logo do beecrowd que se assemelha a uma abelha](/Readme/logo-banner.png)
 
 <p align="center">
 • <a href="#descricao">Descrição</a>
